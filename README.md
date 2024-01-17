@@ -16,3 +16,28 @@ Make sure you have the following software installed on your machine:
 
 ```bash
 git clone https://github.com/your-username/electricity-board-website.git
+```
+### Navigate to Project Directory
+
+```bash
+cd electricity-board-website
+```
+### Install Dependencies
+```bash
+npm install
+```
+### Install Dependencies
+```bash
+npm start
+```
+The application will be accessible at http://localhost:3000.
+
+
+### Usage
+* Get Full Records: Navigate to the "Records" section to view all user connection records.
+
+* Get Record by ID: Use the "Search" functionality to find and view or edit records based on their ID.
+
+* Get Records by Date Range: Navigate to the "Reports" section to filter records based on a specific date range.
+
+* Data Visualization: Visit the "Analytics" section to visualize the number of requests per month with the ability to filter by status.
