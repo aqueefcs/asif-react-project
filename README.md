@@ -12,11 +12,6 @@ Make sure you have the following software installed on your machine:
 
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/electricity-board-website.git
-```
 ### Navigate to Project Directory
 
 ```bash
